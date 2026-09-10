@@ -1,0 +1,27 @@
+# --- Unreal Engine: generated / rebuildable ---
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+Builds/
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj/
+*.xcworkspace/
+
+# --- macOS / exFAT noise ---
+.DS_Store
+._*
+
+# --- Third-party plugins: restore from their own source, not this repo ---
+Plugins/
+
+# --- Marketplace asset packs: licensed to the author, not redistributable ---
+Content/Biomes/
+Content/PolygonAdventure/
