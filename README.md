@@ -1,4 +1,4 @@
-# Lab291 — MVC Crafting System (VR)
+# VR Crafting System — MVC in Unreal Engine
 
 A VR crafting/recipe system in Unreal Engine, built to practice a clean
 Model-View-Controller separation in Blueprints.
